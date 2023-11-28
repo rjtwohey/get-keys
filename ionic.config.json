@@ -1,5 +1,5 @@
 {
-  "name": "empty-vault",
+  "name": "get-keys",
   "integrations": {
     "capacitor": {}
   },
