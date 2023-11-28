@@ -1,0 +1,7 @@
+{
+  "name": "empty-vault",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
